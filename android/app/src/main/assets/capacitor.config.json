@@ -1,0 +1,27 @@
+{
+	"appId": "com.nixosocial.app",
+	"appName": "Nixo",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https",
+		"cleartext": true
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 1800,
+			"launchAutoHide": true,
+			"backgroundColor": "#070c18",
+			"androidSplashResourceName": "splash",
+			"androidScaleType": "CENTER_CROP",
+			"showSpinner": false
+		},
+		"StatusBar": {
+			"style": "DARK",
+			"backgroundColor": "#070c18"
+		},
+		"Keyboard": {
+			"resize": "body",
+			"style": "DARK"
+		}
+	}
+}

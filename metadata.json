@@ -1,0 +1,7 @@
+{
+  "name": "Nixo Social",
+  "description": "A next-generation Nixo social networking platform with real-time messaging, coin economy, stories, reels, groups, pages, and rich moderation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,1 @@
+import{i as e,r as t}from"./sparkles-DOOGFTll.js";import{CommunitiesView as n}from"./CommunitiesView-CZy0kh2H.js";e();var r=t(),i=`/app/applet/src/components/PagesEventsView.tsx`,a=({initialType:e=`pages`})=>(0,r.jsxDEV)(n,{initialTab:e},void 0,!1,{fileName:i,lineNumber:9,columnNumber:10},void 0);export{a as PagesEventsView};

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nixo</string>
+    <string name="title_activity_main">Nixo</string>
+    <string name="package_name">com.nixosocial.app</string>
+    <string name="custom_url_scheme">com.nixosocial.app</string>
+</resources>
